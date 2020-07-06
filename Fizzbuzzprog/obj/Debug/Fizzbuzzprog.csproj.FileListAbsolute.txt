@@ -1,0 +1,6 @@
+C:\work\training\FizzBuzz\Fizzbuzzprog\bin\Debug\Fizzbuzzprog.exe
+C:\work\training\FizzBuzz\Fizzbuzzprog\bin\Debug\Fizzbuzzprog.pdb
+C:\work\training\FizzBuzz\Fizzbuzzprog\obj\Debug\Fizzbuzzprog.csprojAssemblyReference.cache
+C:\work\training\FizzBuzz\Fizzbuzzprog\obj\Debug\Fizzbuzzprog.csproj.CoreCompileInputs.cache
+C:\work\training\FizzBuzz\Fizzbuzzprog\obj\Debug\Fizzbuzzprog.exe
+C:\work\training\FizzBuzz\Fizzbuzzprog\obj\Debug\Fizzbuzzprog.pdb
